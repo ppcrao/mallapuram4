@@ -1804,6 +1804,7 @@ input[type="checkbox"] {
 	border-radius:0 5px 5px 0 ;
 	-moz-border-radius:0 5px 5px 0 ;
 	-webkit-border-radius:0 5px 5px 0 ;
+	margin-bottom: 5px;
 }
 .form-default input[type=text]:focus, .form-default textarea:focus, .form-default input[type=email]:focus, .form-default select:focus{
 	background:#f6f6f6;	
